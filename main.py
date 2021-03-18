@@ -64,3 +64,5 @@ while not end_of_game:
     print(' '.join(display))
   
   print(ascii_art.stages[stages])
+
+# There's a bug: if guess = " "

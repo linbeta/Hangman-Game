@@ -5,7 +5,7 @@ band_name_list = [
 'A Perfect Circle',
 'Band Perry',
 'Blur',
-'Breaking Benjamin'
+'Breaking Benjamin',
 'Coldplay',
 'Foo Fighters',
 'Green Day',
