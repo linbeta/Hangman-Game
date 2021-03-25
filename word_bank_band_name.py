@@ -1,5 +1,5 @@
 band_name_list = [
-'Artic Monkeys',
+'Arctic Monkeys',
 'Alice In Chains',
 'Alter Bridge',
 'A Perfect Circle',
